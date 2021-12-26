@@ -1,0 +1,1 @@
+Projemizde kullanacagımız structlar klasörü.

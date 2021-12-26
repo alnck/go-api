@@ -1,0 +1,1 @@
+Yarıdımcı araçlar ve packageler klasörü.

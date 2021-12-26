@@ -1,0 +1,1 @@
+Json dosyalarımızdaki verilerin işlenmesi için yapılan klasör.
