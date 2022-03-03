@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	. "../dataloaders"
+	. "../data"
 	. "../models"
 )
 
